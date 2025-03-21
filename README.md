@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - 🖥 Bioinformatics student at Jagiellonian University 
 - 💼 Robotics and programming trainer using LEGO for kids
 - 🎓 IB Graduate of class 2020
-- 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working on:
