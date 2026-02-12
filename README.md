@@ -1,66 +1,95 @@
+# Hi, I'm Aleksandra 👋
 
+## About Me
 
- <!-- TODO: automate this -->
-<!--
-**Rac00nCanFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Bioinformatics student** at Jagiellonian University with a strong interest in **Software Engineering, Data Science, Machine Learning, and Cybersecurity**. I enjoy solving problems through code—whether it's building C++ algorithms, training ML models, or analysing and securing data.
 
-Here are some ideas to get you started:
+🎯 **Currently seeking internships** in: Software Engineering, Data Science / ML, Cybersecurity  
+📍 Based in Poland | 🌍 Open to remote & hybrid opportunities  
+🔗 [LinkedIn](https://www.linkedin.com/in/aleksandra-janik25/) · 📧 aleksandra.dziurok@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<table>
-	<tr>
-	</tr>
-	<tr>
-		<th>
-			<h2><code>𝚂𝚙𝚎𝚌𝚒𝚊𝚕</code>: 𝙸'𝚖 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝙷𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝!</h2>
-			𝙰𝚗𝚢𝚘𝚗𝚎 𝚠𝚑𝚘 𝚠𝚊𝚗𝚝𝚜 𝚝𝚘 𝚒𝚜 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚎! 𝙹𝚞𝚜𝚝 𝚜𝚒𝚐𝚗 𝚞𝚙 𝚊𝚝 <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚝𝚝𝚙𝚜://𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖/</a>.
-				<br>𝙱𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢, 𝚖𝚊𝚔𝚎 𝟺 𝙿𝚁𝚜 𝚝𝚘 𝙶𝚒𝚝𝙷𝚞𝚋 𝚛𝚎𝚙𝚘𝚜 𝚊𝚗𝚍 𝚐𝚎𝚝 𝚝𝚑𝚎𝚖 𝚖𝚎𝚛𝚐𝚎𝚍 𝚘𝚛 𝚝𝚊𝚐𝚐𝚎𝚍 <code>hacktoberfest-accepted</code> 𝚠𝚒𝚕𝚕 𝚐𝚎𝚝 𝚌𝚘𝚘𝚕&nbsp𝚜𝚠𝚊𝚐!
-		</th>
-	</tr>
-	<tr>
-		<td>
-				<b>𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚎𝚟𝚎𝚗𝚝:<b>
-				<ul>
-					<li><a href="https://github.com/Raymo111/emoji">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚎𝚖𝚘𝚓𝚒</a></li>
-					<li><a href="https://github.com/Raymo111/drracket-customization">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚍𝚛𝚛𝚊𝚌𝚔𝚎𝚝-𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗</a></li>
-					<li><a href="https://github.com/Raymo111/i3lock-color">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛</a></li>
-				</ul>
-		</td>
-	</tr>
-</table>
--->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Bioinformatics student at Jagiellonian University 
-- 💼 Robotics and programming trainer using LEGO for kids
-- 🎓 IB Graduate of class 2020
+---
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working on:
-```yaml
-- developing ML model to predict if given bacteria is susceptible or resistant to given antibiotics 
-- developing my own app to manage tasks
-- broadening my knowledge on ML models by attending various courses
-```
+## What I'm Working On
 
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- write my own ML model in biomedical field
-   	- learn how to play Linkin Park on percussion the best I can do now is Last Christmas
-   	- be able to talk in Japanese for now I can only sell you hat
+- 🧬 **CAMDA 2025 Challenge** – ML models predicting bacterial antibiotic resistance from genomic data (Python, scikit-learn, pandas)
+- 🎵 **Rudiments Buddy** – Percussion practice analyzer with beat detection and timing precision grading (Python, librosa, tkinter)
+- 🗂️ **Emergency Station Database** – SQL Server database with Python GUI and synthetic data generation (Python, SQL, Faker)
+- 🌳 **KD-Tree Implementation** – Custom C++ nearest-neighbor search with benchmarking vs naive approach (C++17, STL, tests)
 
+---
 
-<!--
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
-<a href="https://twitter.com/Raym0111" target="_blank">
-	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a>
--->
+## Tech Stack & Focus Areas
+
+### 💻 Software Engineering
+- **Languages**: C++ (OOP, STL, algorithms), Python (OOP, scripting, GUI)
+- **Tools**: Git, Linux, CMake, GTest, Jupyter Notebooks
+- **Sample projects**: [KD-tree](https://github.com/Rac00nCanFly/CPP_KDTree-with-KNN), [Task Manager](https://github.com/Rac00nCanFly/Task-manager-python/tree/main), [Rudiments Buddy](https://github.com/Rac00nCanFly/rudiments-buddy)
+
+### 📊 Data & Machine Learning
+- **Tools**: Python (pandas, NumPy, scikit-learn, seaborn, matplotlib), SQL (T-SQL)
+- **Experience**:
+  - Regression models (Lasso, Ridge) and model evaluation
+  - Data preprocessing, feature engineering, visualization
+- **Sample projects**: [Opossum Age Prediction](https://github.com/Rac00nCanFly/Machine-Learning),[Emergency Station DB](https://github.com/Rac00nCanFly/Emergency-Station-Database)
+
+### 🔐 Cybersecurity & Secure Data
+- **Interests**: cybersecurity fundamentals, OWASP Top 10, secure coding, access control, data quality and governance
+- **Practice so far**:
+  - Working with real data pipelines during a Data Governance / Data Science internship
+  - Using Python/SQL to validate and check data consistency
+  - Focusing on clear, testable code and understanding of how data is stored, accessed, and audited
+- **Goal**: grow into roles like **Cyber Security Analyst / Cloud Cybersecurity Engineer Intern** combining data skills with security awareness
+
+### 🤖 AI-Assisted Development
+
+I actively use AI tools (e.g. GitHub Copilot / LLMs) to:
+- generate initial boilerplate and refactoring suggestions,
+- explore alternative implementations,
+- draft tests and documentation.
+
+All generated code is **reviewed, adapted, and tested manually** before use.
+
+---
+
+## Pinned Projects
+
+Some highlights from my portfolio:
+
+1. **[KD-Tree Nearest Neighbor](https://github.com/Rac00nCanFly/CPP_KDTree-with-KNN)** – C++ implementation of a KD-tree with nearest-neighbor search and benchmarks
+2. **[Rudiments Buddy](https://github.com/Rac00nCanFly/rudiments-buddy)** – Python app analysing percussion timing precision against a metronome recording
+3. **[Emergency Station Database](https://github.com/Rac00nCanFly/Emergency-Station-Database)** – SQL Server + Python GUI + Faker-generated data, mimicking an emergency station system
+4. **[Data & ML Portfolio](https://github.com/Rac00nCanFly/Machine-Learning)** – Notebooks with regression, regularization, and exploratory data analysis
+5. **[Task Manager (Python)](https://github.com/Rac00nCanFly/Task-manager-python/tree/main)** – Terminal-based task manager with categories, file persistence, and exception handling
+
+---
+
+## Experience Highlights
+
+- **Data Governance / Data Science Intern** – Power BI dashboards, Python/Groovy scripting, SQL data analysis and validation
+- **Robotics & Programming Instructor** – Teaching programming and problem-solving to kids using LEGO Mindstorms/SPIKE Prime
+- **CAMDA 2025 Participant** – Predictive models for antimicrobial resistance in bacteria (team project, Python ML stack)
+
+---
+
+## Let's Connect
+
+I'm actively looking for **Summer 2026 internships** in:
+
+- Software Engineering  
+- Data Science / Machine Learning  
+- Cybersecurity / Cloud Security (entry-level, with strong data & coding background)
+
+📫 **Email**: aleksandra.dziurok@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/aleksandra-janik25](https://www.linkedin.com/in/aleksandra-janik25/)
+
+---
+
+## Fun Facts
+
+- 🥁 Learning percussion (currently working on Linkin Park covers—still mastering Last Christmas!)
+- 🇯🇵 Studying Japanese (goal: casual conversation, not just “I can sell you a hat”)
+- 🏕️ Scout leader organising international camps and working on a foundation for a mountain cabin
+
 
 
