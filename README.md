@@ -88,6 +88,7 @@ I'm actively looking for **Summer 2026 internships** in:
 ## Fun Facts
 
 - 🥁 Learning percussion (currently working on Linkin Park covers—still mastering Last Christmas!)
+- 🧱 Designing and 3D-printing functional everyday objects (organizers, holders, custom parts)
 - 🇯🇵 Studying Japanese (goal: casual conversation, not just “I can sell you a hat”)
 - 🏕️ Scout leader organising international camps and working on a foundation for a mountain cabin
 
