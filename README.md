@@ -30,7 +30,7 @@ I'm a **Bioinformatics student** at Jagiellonian University with a strong intere
 - **Experience**:
   - Regression models (Lasso, Ridge) and model evaluation
   - Data preprocessing, feature engineering, visualization
-- **Sample projects**: [Opossum Age Prediction](https://github.com/Rac00nCanFly/Machine-Learning),[Emergency Station DB](https://github.com/Rac00nCanFly/Emergency-Station-Database)
+- **Sample projects**: [Opossum Age Prediction](https://github.com/Rac00nCanFly/Machine-Learning), [Emergency Station DB](https://github.com/Rac00nCanFly/Emergency-Station-Database)
 
 ### 🔐 Cybersecurity & Secure Data
 - **Interests**: cybersecurity fundamentals, OWASP Top 10, secure coding, access control, data quality and governance
