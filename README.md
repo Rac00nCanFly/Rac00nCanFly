@@ -12,7 +12,6 @@ I'm a **Bioinformatics student** at Jagiellonian University with a strong intere
 
 ## What I'm Working On
 
-- 🧬 **CAMDA 2025 Challenge** – ML models predicting bacterial antibiotic resistance from genomic data (Python, scikit-learn, pandas)
 - 🎵 **Rudiments Buddy** – Percussion practice analyzer with beat detection and timing precision grading (Python, librosa, tkinter)
 - 🗂️ **Emergency Station Database** – SQL Server database with Python GUI and synthetic data generation (Python, SQL, Faker)
 - 🌳 **KD-Tree Implementation** – Custom C++ nearest-neighbor search with benchmarking vs naive approach (C++17, STL, tests)
