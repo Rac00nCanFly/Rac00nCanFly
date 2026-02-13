@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a **Bioinformatics student** at Jagiellonian University with a strong interest in **Software Engineering, Data Science, Machine Learning, and Cybersecurity**. I enjoy solving problems through code—whether it's building C++ algorithms, training ML models, or analysing and securing data.
+I'm a **Bioinformatics student** at Jagiellonian University with a strong interest in **Software Engineering, Data Science, Machine Learning**. I enjoy solving problems through code—whether it's building C++ algorithms, training ML models, or analysing and securing data.
 
-🎯 **Currently seeking internships** in: Software Engineering, Data Science / ML, Cybersecurity  
+🎯 **Currently seeking internships** in: Software Engineering, Data Science / ML
 📍 Based in Poland | 🌍 Open to remote & hybrid opportunities  
 🔗 [LinkedIn](https://www.linkedin.com/in/aleksandra-janik25/) · 📧 aleksandra.dziurok@gmail.com
 
@@ -12,9 +12,10 @@ I'm a **Bioinformatics student** at Jagiellonian University with a strong intere
 
 ## What I'm Working On
 
+- 🖥️ **Homelab – Proxmox + TrueNAS** – Self-hosted virtualization and secure storage with ZFS and Syncthing (Proxmox, TrueNAS, networking)
 - 🎵 **Rudiments Buddy** – Percussion practice analyzer with beat detection and timing precision grading (Python, librosa, tkinter)
-- 🗂️ **Emergency Station Database** – SQL Server database with Python GUI and synthetic data generation (Python, SQL, Faker)
 - 🌳 **KD-Tree Implementation** – Custom C++ nearest-neighbor search with benchmarking vs naive approach (C++17, STL, tests)
+
 
 ---
 
@@ -31,14 +32,6 @@ I'm a **Bioinformatics student** at Jagiellonian University with a strong intere
   - Regression models (Lasso, Ridge) and model evaluation
   - Data preprocessing, feature engineering, visualization
 - **Sample projects**: [Opossum Age Prediction](https://github.com/Rac00nCanFly/Machine-Learning), [Emergency Station DB](https://github.com/Rac00nCanFly/Emergency-Station-Database)
-
-### 🔐 Cybersecurity & Secure Data
-- **Interests**: cybersecurity fundamentals, OWASP Top 10, secure coding, access control, data quality and governance
-- **Practice so far**:
-  - Working with real data pipelines during a Data Governance / Data Science internship
-  - Using Python/SQL to validate and check data consistency
-  - Focusing on clear, testable code and understanding of how data is stored, accessed, and audited
-- **Goal**: grow into roles like **Cyber Security Analyst / Cloud Cybersecurity Engineer Intern** combining data skills with security awareness
 
 ### 🤖 AI-Assisted Development
 
@@ -58,8 +51,10 @@ Some highlights from my portfolio:
 1. **[KD-Tree Nearest Neighbor](https://github.com/Rac00nCanFly/CPP_KDTree-with-KNN)** – C++ implementation of a KD-tree with nearest-neighbor search and benchmarks
 2. **[Rudiments Buddy](https://github.com/Rac00nCanFly/rudiments-buddy)** – Python app analysing percussion timing precision against a metronome recording
 3. **[Emergency Station Database](https://github.com/Rac00nCanFly/Emergency-Station-Database)** – SQL Server + Python GUI + Faker-generated data, mimicking an emergency station system
-4. **[Data & ML Portfolio](https://github.com/Rac00nCanFly/Machine-Learning)** – Notebooks with regression, regularization, and exploratory data analysis
+4. **[Opossum Age Prediction](https://github.com/Rac00nCanFly/Machine-Learning)** – Linear regression with Lasso/Ridge regularization on biological data
 5. **[Task Manager (Python)](https://github.com/Rac00nCanFly/Task-manager-python/tree/main)** – Terminal-based task manager with categories, file persistence, and exception handling
+6. **[Homelab – Proxmox + TrueNAS](https://github.com/Rac00nCanFly/homelab-proxmox-nas)** – Self-hosted virtualization and secure storage with ZFS and Syncthing
+
 
 ---
 
@@ -77,7 +72,6 @@ I'm actively looking for **Summer 2026 internships** in:
 
 - Software Engineering  
 - Data Science / Machine Learning  
-- Cybersecurity / Cloud Security (entry-level, with strong data & coding background)
 
 📫 **Email**: aleksandra.dziurok@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/aleksandra-janik25](https://www.linkedin.com/in/aleksandra-janik25/)
